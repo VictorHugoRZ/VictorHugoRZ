@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Lidiando con bugs desde 2023.<br>📚 Actualmente estoy aprendiendo: Go y Python.<br>🎯 Metas: <br>- Mejorar mis habilidades en el uso de tecnologías como ReactJs, React Native, Redux y Node Js.<br>- Participar en proyectos desafiantes que me permitan aplicar y expandir mis habilidades técnicas.<br>- Contribuir a equipos de desarrollo colaborativos y motivados, aportando soluciones innovadoras.<br>🎲 Dato curioso: <br>- Siempre olvido todo.<br>- Me quedo dormido en dos segundos.</p>
+<p align="left">✨ Lidiando con bugs desde 2023.<br>📚 Actualmente estoy aprendiendo: Go y Python.<br>🎯 Metas: <br>- Mejorar mis habilidades en el uso de tecnologías como ReactJs, React Native, Redux y Node Js.<br>- Participar en proyectos desafiantes que me permitan aplicar y expandir mis habilidades técnicas.<br>- Contribuir a equipos de desarrollo colaborativos y motivados, aportando soluciones innovadoras.<br>🎲 Dato curioso: <br>- Puedo aprender de manera rápida todo lo que quiera.</p>
 
 ###
 
